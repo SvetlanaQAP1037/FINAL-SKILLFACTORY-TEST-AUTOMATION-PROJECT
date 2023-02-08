@@ -1,7 +1,7 @@
 my_valid_email = "fortestingsr@mail.ru"
 my_email_pass = "A123#456c"
 
-my_valid_phone = "+79265612266"
+my_valid_phone = "+7**********"
 my_phone_pass = "s9awmh73n6AHVB"
 my_phone_pass_vk = "Q#22334455w"
 
